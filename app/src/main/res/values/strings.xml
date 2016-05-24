@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">ViewFilpperTest</string>
+    <string name="app_name">이전과 다음</string>
+    <string name="but_text_prev">이전 화면</string>
+    <string name="but_text_next">다음 화면</string>
 </resources>
